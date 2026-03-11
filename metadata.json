@@ -1,0 +1,5 @@
+{
+  "name": "QUANTUM_BLUEJAY System Monitor",
+  "description": "A holographic dashboard for monitoring the QUANTUM_BLUEJAY system telemetry.",
+  "requestFramePermissions": []
+}
